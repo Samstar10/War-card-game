@@ -20,5 +20,5 @@ Here's how to play the War card game:
 
 6. **Note**: If a player runs out of cards to play during a war, they lose the game. The opponent collects all the remaining cards, and the game ends.
 
-The War card game is based largely on luck, as there are no strategic decisions to be made during gameplay. It is often played with children, as it is simple to learn and can be an entertaining way to pass the time. However, it's worth noting that the game can go on for a long time, especially if there are multiple wars.
+The War card game is based largely on luck, as there are no strategic decisions to be made during gameplay. It is often played with children, as it is simple to learn and can be an entertaining way to pass the time. However, it's worth noting that the game can go on for a long time, especially if there are multiple wars. It uses Local Storage to store the data.
 The link to the live demo of the game is https://card-war.netlify.app/
